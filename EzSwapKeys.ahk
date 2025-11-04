@@ -2,6 +2,16 @@
 
 esk_version := "1.0.0"
 
+
+
+;;;;;;;;;; Includes
+
+#Include JXON.ahk
+
+;;;;;;;;;; Includes
+
+
+
 ;;;;;;;;;; Main Window
 
 Gui_Main := Gui()
